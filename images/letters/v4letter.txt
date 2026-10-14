@@ -1,0 +1,8 @@
+function init(){
+//idk put some kinda metadata here
+//like, canFlip = true, flipImage = paths.ima- idk
+}
+
+function onPressEnter(){
+FlxG.openURL("dummylink");
+}
