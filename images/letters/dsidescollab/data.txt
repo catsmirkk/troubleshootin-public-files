@@ -1,3 +1,3 @@
 true
-playSound
-assets/sounds/bfscream.ogg
+openURL
+https://www.youtube.com/watch?v=NXqNGt0hdLg
